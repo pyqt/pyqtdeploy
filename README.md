@@ -1,0 +1,4 @@
+pyqtdeploy
+==========
+
+Deploy PyQt applications
